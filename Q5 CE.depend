@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1651316304 source:c:\users\kingsley\onedrive\desktop\bs456102820_ce\q5 ce\src\student.cpp
+	"Student.h"
+	<Student.h>
+	<iostream>
+
+1651317261 c:\users\kingsley\onedrive\desktop\bs456102820_ce\q5 ce\include\student.h
+
+1651316526 source:c:\users\kingsley\onedrive\desktop\bs456102820_ce\q5 ce\main.cpp
+	<iostream>
+	"Student.h"
+	<Student.h>
+	"Marks.h"
+
+1651316304 c:\users\kingsley\onedrive\desktop\bs456102820_ce\q5 ce\include\marks.h
+	<Student.h>
+
+1651316526 source:c:\users\kingsley\onedrive\desktop\bs456102820_ce\q5 ce\src\marks.cpp
+	"Marks.h"
+	<Student.h>
+	"Student.h"
+	<iostream>
+
